@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/repo-size/Darkempire78/Fast-BlockTheSpot-And-Spicetify-Update)
+![](https://img.shields.io/github/repo-size/Darkempire78/Fast-BlockTheSpot-And-Spicetify-Update?style=for-the-badge)
 
 # Fast BlockTheSpot And Spicetify Update
 
