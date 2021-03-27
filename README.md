@@ -7,7 +7,7 @@ A simple .bat file which allows you to update both [Spicetify](https://github.co
 ## Installation
 
 * Download the repository
-* Add the path of your BlockTheSpot folder in `config.txt`.
+* Add the path of your BlockTheSpot folder in `config.txt`
 * Create a shortcut of `main.bat` and add it on your Desktop
 * Double click on it every time spotify is updated
 
@@ -16,17 +16,11 @@ A simple .bat file which allows you to update both [Spicetify](https://github.co
 * Update Spicetify 
 * Update BlockTheSpot
 
-## Preview
-
-<img src="https://github.com/Darkempire78/Music-Discord-Bot/blob/main/preview.png" width="600"/>
-
-
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
-
 
 ## License
 
