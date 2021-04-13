@@ -16,6 +16,12 @@ A simple .bat file which allows you to update both [Spicetify](https://github.co
 * Update Spicetify 
 * Update BlockTheSpot
 
+## Discord
+
+Join the Discord server !
+
+[![](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/sPvJmY7mcV)
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
