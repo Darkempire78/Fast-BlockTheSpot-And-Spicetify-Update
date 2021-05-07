@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/repo-size/Darkempire78/Fast-BlockTheSpot-And-Spicetify-Update)
+![](https://img.shields.io/github/repo-size/Darkempire78/Fast-BlockTheSpot-And-Spicetify-Update?style=for-the-badge)
 
 # Fast BlockTheSpot And Spicetify Update
 
@@ -15,6 +15,12 @@ A simple .bat file which allows you to update both [Spicetify](https://github.co
 
 * Update Spicetify 
 * Update BlockTheSpot
+
+## Discord
+
+Join the Discord server !
+
+[![](https://i.imgur.com/UfyvtOL.png)](https://discord.gg/sPvJmY7mcV)
 
 ## Contributing
 
