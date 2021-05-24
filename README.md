@@ -7,7 +7,7 @@ A simple .bat file which allows you to update both [Spicetify](https://github.co
 ## Installation
 
 * Download the repository
-* Create a shortcut of `main.bat` and add it on your Desktop
+* Create a shortcut of `Fast BTS Spicetify Update.bat` and add it on your Desktop
 * Double click on it every time spotify is updated
 
 ## Features

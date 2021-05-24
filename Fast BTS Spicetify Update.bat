@@ -35,4 +35,6 @@ del chrome_elf.zip
 
 ECHO.
 
+START %APPDATA%/Spotify/Spotify.exe
+
 PAUSE
