@@ -9,7 +9,8 @@ ECHO [92m--- Updating Spicetify ---[0m
 ECHO [92m--------------------------[0m
 
 
-echo y| call spicetify apply
+echo y| call spicetify upgrade
+echo y| call spicetify restore backup apply
 
 ECHO.
 ECHO [92m-----------------------------[0m
